@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi there 👋, my name is Kirill
 
+:man_technologist: I’m currently working on writing autotests
+
+:fire: and I'm using Java for it.
+
+:mag_right: You can see some examples of my study and work projects.
 
 
 <!--
@@ -16,15 +21,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikknik&hide=contribs,prs))
+![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=anikknik&hide=contribs,prs&theme=radical)
 
-<img src="https://komarev.com/ghpvc/?username=anikknik" alt="Profile Views:">
 
-### <p align="right"></a>Contact Me
+
+### <p align="right"></a>:black_heart: Contact Me 
 
 <p align="right">
   <a href="https://t.me/anikknik"><img width="22px" alt="Telegram" title="Telegram" src="images/sprites/Telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://vk.com/kir.test"><img width="22px" alt="VK" title="VK" src="images/sprites/vk.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anikknik" alt="Profile Views:">
 </p>
